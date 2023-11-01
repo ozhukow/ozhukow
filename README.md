@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ozhukow
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML, CSS, and Javascript for Web Developers
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Insta: o_zhukow
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me Telegram: [o_zhukow](https://t.me/treantprotect)
 
 <!---
 ozhukow/ozhukow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
